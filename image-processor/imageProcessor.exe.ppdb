@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#Author: x
+#imageProcessor.exe
+#Rating=1-5
+export PW_WINE_USE="WINE_LG_10-20"
+export PW_PREFIX_NAME="DEFAULT"
+export PORTPROTON_NAME="imageProcessor"
+export FILE_DESCRIPTION=""
+export FILE_SHA256SUM="b9e165962d4ab7762ab964cacce62ce9856eb4752fab8e456528201a27d40ce2"
+export PW_VULKAN_USE="0"
