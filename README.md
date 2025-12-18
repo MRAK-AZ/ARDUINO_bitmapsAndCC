@@ -1,5 +1,6 @@
 
-![PROJECT_PHOTO](https://github.com/MRAK-AZ/ARDUINO_bitmapsAndCC/blob/main/ProjectPhoto.jpg)
+![PROJECT_PHOTO](https://github.com/MRAK-AZ/ARDUINO_bitmapsAndCC/blob/main/ProjectPhoto.png)
+
 # Arduino Bitmaper AND ControllCenter
 
 ## Описание
