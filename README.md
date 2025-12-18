@@ -1,4 +1,6 @@
-# Arduino Bitmaper и ControllCenter
+
+![PROJECT_PHOTO](https://github.com/MRAK-AZ/ARDUINO_bitmapsAndCC/blob/main/ProjectPhoto.jpg)
+# Arduino Bitmaper AND ControllCenter
 
 ## Описание
 Прошивка для Arduino Nano ATmega328, предназначенная для чтения bitmap-изображений с возможностью управления периферией.
