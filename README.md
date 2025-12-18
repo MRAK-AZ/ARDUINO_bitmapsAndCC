@@ -44,10 +44,12 @@ GyverOLED<SSD1306_128x64, OLED_BUFFER> oled; // Определение типа 
 #define PIN_DOWN 4 // Пин кнопки DOWN
 Button btnOK, btnUP, btnDOWN;
 
+#define PIN_CONTROL 5  // пин для управления
+
 // -------------------- BITMAP's -------------------- //
-#include "bitmap.h" // Файл с битмапами
-const uint8_t* const bitmaps[] PROGMEM = { bmp1, bmp2 }; // Инициализация битмапов
-#define BITMAPS_COUNT (sizeof(bitmaps) / sizeof(bitmaps[0])) // Автоматический расчет количества битмапов
+#include "bitmap.h"                                             // Файл с битмапами
+const uint8_t* const bitmaps[] PROGMEM = { bmp1, bmp2, bmp3 };  // Инициализация битмапов
+#define BITMAPS_COUNT (sizeof(bitmaps) / sizeof(bitmaps[0]))    // Автоматический расчет количества битмапов
 
 // ------------------- GENERAL MENU -----------------------//
 #define ITEMS 4 // Количество пунктов в главном меню | УКАЗЫВАТЬ ОБЯЗАТЕЛНО !!
